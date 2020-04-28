@@ -5,3 +5,4 @@
   roles:
      - webserver
      - mysql
+     - ansible-role-mysql-master
